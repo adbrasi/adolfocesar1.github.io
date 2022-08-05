@@ -38,3 +38,9 @@ img {
     max-width: initial;
   }
 }
+
+@media (max-width: 450px) {
+  .vlibras {
+    display: none;
+  }
+}
